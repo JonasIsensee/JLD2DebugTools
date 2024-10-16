@@ -1,4 +1,6 @@
 # JLD2DebugTools
+**Note: relevant features of `JLD2DebugTools.jl` have been added to JLD2 itself**
+
 Install via
 ```
 ] add git@github.com:JonasIsensee/JLD2DebugTools.git
